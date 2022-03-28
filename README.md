@@ -27,6 +27,7 @@ To publish the docker image use the following command:
 
 ```
 docker build -t genedocker/gitops-demo-app:v0.1 .
+docker build -t genedocker/gitops-demo-app:v0.2 .
 ```
 
 Two application versions are available in Docker Hub:
